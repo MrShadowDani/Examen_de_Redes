@@ -18,6 +18,7 @@ El tótem simboliza una tabla de enrutamiento, que indica a qué destino enviar 
 La leyenda describe la técnica de NAT (Network Address Translation), donde un único dispositivo (por ejemplo, un router) “enmascara” las direcciones privadas de varios hosts y muestra solamente su propia dirección pública al exterior. Esto protege la identidad interna y ahorra direcciones IPv4. Dos beneficios principales son mayor seguridad (pues los equipos internos no son visibles desde fuera) y uso eficiente de las direcciones IP públicas.
 
 Parte Practica
+
 Ejercicio 1: La Ruta Perdida entre Dos Reinos
 Este ejercicio consiste en conectar dos redes locales (simbolizadas por “dos ciudades”) a través de un enlace punto a punto. Para ello:
 • Se crean dos routers, cada uno con su propia red local y un switch al que se conectan los PCs.
